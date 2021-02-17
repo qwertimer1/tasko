@@ -5,7 +5,7 @@ setuptools.setup(
     version="0.0.1",
     author="qwertimer1",
     author_email="delltim@gmail.com",
-    description="Tasko package",,
+    description="Tasko package",
     packages=setuptools.find_packages(tasko),
     classifiers=[
         "Programming Language :: Python :: 3",
