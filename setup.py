@@ -3,8 +3,7 @@ import setuptools
 setuptools.setup(
     name="tasko", 
     version="0.0.1",
-    author="qwertimer1",
-    author_email="delltim@gmail.com",
+    author="warriorofwire",
     description="Tasko package",
     packages=setuptools.find_packages(include=['tasko']),
     classifiers=[
